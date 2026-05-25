@@ -1,0 +1,95 @@
+aid: quizlet
+name: Quizlet
+description: >-
+  Quizlet is a San Francisco-based global learning platform offering
+  flashcards, practice tests, and AI-powered study tools used by students,
+  teachers, and lifelong learners. Core features include user-created and
+  expert-verified study sets, Learn mode (adaptive practice), Test mode,
+  Match game, Spaced Repetition, and an AI tutor (Q-Chat / Magic Notes)
+  that generates flashcards, summaries, practice questions, and
+  explanations from uploaded notes, PDFs, slides, and textbooks. Quizlet
+  Plus is the company's consumer subscription, and Quizlet for Schools /
+  Teachers provides licensed offerings for classrooms. The platform
+  integrates with Google Classroom (share-as-assignment) and Canvas
+  (embeddable widgets) but does not currently expose a public developer
+  API, OpenAPI specification, or SDK — the legacy Developer API 2.0
+  (`quizlet.com/api/2.0`) was effectively wound down to partners-only and
+  is not openly registrable. Quizlet's GitHub organization
+  (`github.com/quizlet`) hosts internal tooling, GitHub Actions, and
+  forks of OSS dependencies (HHVM/Hack, PHPUnit, Mockery, Stylus, etc.)
+  rather than a developer-facing API platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Education
+  - EdTech
+  - Learning
+  - Study Tools
+  - Flashcards
+  - Practice Tests
+  - Spaced Repetition
+  - Adaptive Learning
+  - AI Tutor
+  - Magic Notes
+  - Classroom
+  - Teachers
+  - Students
+url: https://raw.githubusercontent.com/api-evangelist/quizlet/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://quizlet.com
+  - type: About
+    url: https://quizlet.com/mission
+  - type: Features
+    url: https://quizlet.com/features
+  - type: Plus
+    url: https://quizlet.com/upgrade
+  - type: Teachers
+    url: https://quizlet.com/teachers
+  - type: Schools
+    url: https://quizlet.com/schools
+  - type: MagicNotes
+    url: https://quizlet.com/magic-notes
+  - type: HelpCenter
+    url: https://help.quizlet.com
+  - type: Blog
+    url: https://quizlet.com/blog
+  - type: Press
+    url: https://quizlet.com/press
+  - type: Careers
+    url: https://quizlet.com/jobs
+  - type: Privacy
+    url: https://quizlet.com/privacy
+  - type: TermsOfService
+    url: https://quizlet.com/tos
+  - type: Trust
+    url: https://quizlet.com/trust-and-safety
+  - type: Contact
+    url: https://help.quizlet.com/hc/en-us/requests/new
+  - type: GitHub
+    url: https://github.com/quizlet
+  - type: Twitter
+    url: https://twitter.com/quizlet
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quizlet
+  - type: Facebook
+    url: https://www.facebook.com/quizlet
+  - type: Instagram
+    url: https://www.instagram.com/quizlet
+  - type: YouTube
+    url: https://www.youtube.com/quizlet
+  - type: TikTok
+    url: https://www.tiktok.com/@quizlet
+  - type: AppStore
+    url: https://apps.apple.com/us/app/quizlet-ai-powered-flashcards/id546473125
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
