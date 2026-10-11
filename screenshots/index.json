@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "quizlet",
+    "captured_at": "2026-10-11T192929",
+    "source_url": "https://quizlet.com",
+    "source_type": "Website",
+    "file": "quizlet-2026-10-11T192929.png",
+    "bytes": 166961,
+    "capture": "playwright-local"
+  }
+]
