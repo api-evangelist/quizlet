@@ -16,9 +16,29 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Google Workspace app
+- partner_name: Discord (discord-app-directory)
+  partner: discord
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: discord-app-directory
+  evidence: https://discord.com/discovery/applications/1498359156095324211
+  mirror_of: discord/integrations/discord-integration-edges.yml
+  apps:
+  - Quizlet
+  listing_count: 1
+  detected: '2026-10-23'
+  detected_by: mirror-platform-listings.py
+  category: Utilities
+  publisher_verified:
+  - discord-verified-app
 generated: '2026-10-18'
 method: searched
 source:
 - google-workspace/integrations/google-workspace-integration-edges.yml
 checked:
 - google-workspace/integrations/google-workspace-integration-edges.yml
+- discord/integrations/discord-integration-edges.yml

@@ -16,3 +16,16 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: quizlet-discord-discord-app-directory
+  label: Discord (discord-app-directory)
+  partner: discord
+  partner_name: Discord (discord-app-directory)
+  category: Utilities
+  type: marketplace
+  marketplace: discord-app-directory
+  channel: partner-built
+  evidence: https://discord.com/discovery/applications/1498359156095324211
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
